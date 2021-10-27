@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **wxj630/wxj630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiaojubn Wu
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiaojun Wu
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
