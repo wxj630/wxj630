@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-@shawnwu-%23181717?style=flat-square&logo=github)](https://github.com/wxj630)
 [![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=zhihu)](https://zhihu.com/wxj630)
 [![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=gmail)](shawnwu1994@gmail.com)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="416" height="250" />
 
 I ❤️ AI&NLP Development
 
@@ -43,10 +44,6 @@ I ❤️ AI&NLP Development
 
   
 ## Code Stats
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="416" height="250" />
-
-<br/>
 
 ![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=vue-dark)
 
