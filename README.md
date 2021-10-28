@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=zhihu)](https://codesandbox.io/u/xiaoluoboding)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xiaojunwu.me&url=https%3A%2F%2Fxiaojunwu.me)](https://xiaojunwu.me)
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I ❤️ AI&NLP Development
 
@@ -30,6 +29,8 @@ I ❤️ AI&NLP Development
 :writing_hand:I love sharing NLP&Pytorch tech, you can check my [Zhihu](http://zhihu.com/wxj630) for more details.
 
 ## My Tech Stack
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-%233776ab?logo=pytorch&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/-Keras-%23F05032?&logo=Keras&style=for-the-badge)
