@@ -30,15 +30,17 @@ I ❤️ AI&NLP Development
 
 ## My Tech Stack
 <div>
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
-![Pytorch](https://img.shields.io/badge/-Pytorch-%233776ab?logo=pytorch&style=for-the-badge)
-![Keras](https://img.shields.io/badge/-Keras-%23F05032?&logo=Keras&style=for-the-badge)
+  
+  ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-%233776ab?logo=pytorch&style=for-the-badge)
+  ![Keras](https://img.shields.io/badge/-Keras-%23F05032?&logo=Keras&style=for-the-badge)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
+  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 </div>
 
 ## Code Stats
