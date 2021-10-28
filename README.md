@@ -33,7 +33,7 @@ I ❤️ AI&NLP Development
 ## My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/-Pytorch-%233776ab?logo=pytorch&style=for-the-badge)
-![Keras](https://img.shields.io/badge/-Keras-%23F05032?style=flat-square&logo=Keras&logoColor=%23ffffff)
+![Keras](https://img.shields.io/badge/-Keras-%23F05032?style=flat-square&logo=Keras&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
