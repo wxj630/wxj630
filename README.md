@@ -46,5 +46,5 @@ I ❤️ AI&NLP Development
 
 ## Publications
 <ul>
-  <li><a href="https://ieeexplore.ieee.org/document/9459078"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> SAFS: Social-Article Features-Stacking Model for Fake News Detection</b></a><br/><i>A good model to detect fake news with easy features&modelsatcking.</i></li>
+  <li><a href="https://ieeexplore.ieee.org/document/9459078"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> SAFS: Social-Article Features-Stacking Model for Fake News Detection</b></a><br/><i>A good model to detect fake news with easy features&model satcking.</i></li>
 </ul>
