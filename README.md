@@ -35,13 +35,14 @@ I ❤️ AI&NLP Development
 ![Keras](https://img.shields.io/badge/-Keras-%23F05032?style=flat-square&logo=Keras&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
 ## Code Stats
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=dracula)
 
 ## Vistors
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://wxj630-visitor-badge.glitch.me/badge?page_id=wxj630.wxj630)
