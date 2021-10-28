@@ -24,7 +24,7 @@ I ❤️ AI&NLP Development
 
 :computer: NLP Algorithm Engineer currently based in Shenzhen, China at [IDEA](https://idea.edu.cn).
 
-:vulcan_salute: I put most my focus on NLP with python&pytorch, natural language is the best cognitive tool.
+:vulcan_salute: I put mostly my focus on NLP with python&pytorch, natural language is the best cognitive tool.
 
 :writing_hand:I love sharing NLP&Pytorch tech, you can check my [Zhihu](http://zhihu.com/wxj630) for more details.
 
