@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Xiaojun Wu
+# Hello I'm Shawn Wu
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
@@ -30,17 +30,18 @@ Here are some ideas to get you started:
 
 :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
 
-## 𝗠𝘆 𝗧�ech 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Code Stats
 
 ![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## Vistors
 
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
