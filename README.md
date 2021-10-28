@@ -39,7 +39,6 @@ I ❤️ AI&NLP Development
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-%23007ACC?style=flat-square&logo=pycharm)
   ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 </div>
 
@@ -47,6 +46,7 @@ I ❤️ AI&NLP Development
 ## Code Stats
 
 ![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=vue-dark)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Publications
 <ul>
