@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 
 # Hello I'm Shawn Wu
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 [![](https://img.shields.io/badge/-@shawnwu-%23181717?style=flat-square&logo=github)](https://github.com/wxj630)
 [![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=zhihu)](https://codesandbox.io/u/xiaoluoboding)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xiaojunwu.me&url=https%3A%2F%2Fxiaojunwu.me)](https://xiaojunwu.me)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I ❤️ AI&NLP Development
 
