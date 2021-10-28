@@ -42,7 +42,7 @@ I ❤️ AI&NLP Development
 ## Code Stats
 
 ![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=vue-dark)
-![loading.png](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![loading.png](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true){:height="320px" width="500px"}
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Publications
