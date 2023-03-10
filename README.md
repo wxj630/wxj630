@@ -49,6 +49,7 @@ I ❤️ AI&NLP Development
 
 ## Publications
 <ul>
-  <li><a href="https://aclanthology.org/2022.coling-1.402/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Noise Learning for Text Classification: A Benchmark </b></a><br/><i>COLING 2022</i></li>
+  <li><a href="https://arxiv.org/abs/2209.02970"><b> Fengshenbang 1.0: Being the foundation of chinese cognitive intelligence </b></a><br/><i>Fengshenbang LLM Open-Source Project From IDEA Research Institute.</i></li>
+  <li><a href="https://aclanthology.org/2022.coling-1.402/"><b>Noise Learning for Text Classification: A Benchmark </b></a><br/><i>COLING 2022</i></li>
   <li><a href="https://ieeexplore.ieee.org/document/9459078"><b>SAFS: Social-Article Features-Stacking Model for Fake News Detection</b></a><br/><i>A good model to detect fake news with easy features&model satcking.</i></li>
 </ul>
