@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello I'm Shawn Wu
-[![](https://img.shields.io/badge/-@shawnwu-%23181717?style=flat-square&logo=github)](https://github.com/wxj630)
-[![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=zhihu)](https://zhihu.com/people/wxj630)
-[![](https://img.shields.io/badge/-@shawnwu-%23000000?style=flat-square&logo=gmail)](shawnwu1994@gmail.com)
+# Hello I'm Xiaojun Wu
+[![](https://img.shields.io/badge/-@xiaojunwu-%23181717?style=flat-square&logo=github)](https://github.com/wxj630)
+[![](https://img.shields.io/badge/-@xiaojunwu-%23000000?style=flat-square&logo=zhihu)](https://zhihu.com/people/wxj630)
+[![](https://img.shields.io/badge/-@xiaojunwu-%23000000?style=flat-square&logo=gmail)](shawnwu1994@gmail.com)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="416" height="250" />
 
 I ❤️ AI&NLP Development
