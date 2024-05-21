@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-@xiaojunwu-%23000000?style=flat-square&logo=gmail)](shawnwu1994@gmail.com)
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="416" height="250" />
 
-I ❤️ AI&NLP Development
+I ❤️ AI&Multi-modal&NLP Development
 
-:computer: NLP Algorithm Engineer currently based in Shenzhen, China at [IDEA](https://idea.edu.cn).
+:computer: Algorithm Engineer currently based in Shenzhen, China at [IDEA](https://idea.edu.cn).
 
-:vulcan_salute: I put mostly my focus on NLP with python&pytorch, natural language is the best cognitive tool.
+:vulcan_salute: I put mostly my focus on AI&Multi-modal&NLP with python&pytorch, natural language is the best cognitive tool.
 
-:writing_hand:I love sharing NLP&Pytorch tech, you can check my [Zhihu](http://zhihu.com/people/wxj630) for more details.
+:writing_hand:I love sharing AI&Multi-modal&NLP&Pytorch tech, you can check my [Zhihu](http://zhihu.com/people/wxj630) for more details.
 
 
 ## My Tech Stack
@@ -47,9 +47,11 @@ I ❤️ AI&NLP Development
 
 ![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=vue-dark)
 
+<!--
 ## Publications
 <ul>
   <li><a href="https://arxiv.org/abs/2209.02970"><b> Fengshenbang 1.0: Being the foundation of chinese cognitive intelligence </b></a><br/><i>Fengshenbang LLM Open-Source Project From IDEA Research Institute.</i></li>
   <li><a href="https://aclanthology.org/2022.coling-1.402/"><b>Noise Learning for Text Classification: A Benchmark </b></a><br/><i>COLING 2022</i></li>
   <li><a href="https://ieeexplore.ieee.org/document/9459078"><b>SAFS: Social-Article Features-Stacking Model for Fake News Detection</b></a><br/><i>A good model to detect fake news with easy features&model satcking.</i></li>
 </ul>
+-->
