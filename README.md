@@ -45,7 +45,7 @@ I ❤️ AI&Multi-modal&NLP Development
   
 ## Code Stats
 
-<img src="https://api.star-history.com/svg?repos=IDEA-CCNL/Fengshenbang-LM,wxj630/visual-chatgpt-zh,IDEA-CCNL/Fooocus-Taiyi-XL,IDEA-CCNL/Real-Gemini,IDEA-CCNL/Taiyi-Diffusion-XL&type=Date" height="320" width="480" />
+<img src="https://api.star-history.com/svg?repos=IDEA-CCNL/Fengshenbang-LM,wxj630/visual-chatgpt-zh, IDEA-CCNL/GTS-Engine,IDEA-CCNL/Fooocus-Taiyi-XL,IDEA-CCNL/Real-Gemini,IDEA-CCNL/Taiyi-Diffusion-XL&type=Date" height="320" width="480" />
 
 <!--
 ![shawnwu's github stats](https://github-readme-stats.vercel.app/api?username=wxj630&show_icons=true&theme=vue-dark)
