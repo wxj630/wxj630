@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 I ❤️ AI&Multi-modal&NLP Development
 
-:computer: Algorithm Engineer currently based in Shenzhen, China at [IDEA](https://idea.edu.cn).
+:computer: PHD Studnt in [HKUTS(GZ)](https://www.hkust-gz.edu.cn/) and [IDEA](https://idea.edu.cn) jointly education.
 
 :vulcan_salute: I put mostly my focus on AI&Multi-modal&NLP with python&pytorch, natural language is the best cognitive tool.
 
